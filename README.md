@@ -1,1 +1,2 @@
 # The-Esteemed-Maintenance
+This project is a website advertising maintenance services from an artificial company that stores user, management, utility, and website domain information in relational databases stored in MySQL. The internet site was engineered through the binds of multiple programming languages icluding HTML, CSS, PHP, and SQL. The objective of the website was to simulate how websites advertising products or services collect sensitive login information and details of purchases over extended periods of time.
